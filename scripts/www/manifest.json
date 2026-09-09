@@ -1,0 +1,22 @@
+{
+  "id": "./index.html",
+  "name": "校园请假",
+  "short_name": "校园请假",
+  "description": "用于学习和参观的移动端请假申请演示",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "portrait-primary",
+  "background_color": "#f4f7fb",
+  "theme_color": "#1976d2",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "assets/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
