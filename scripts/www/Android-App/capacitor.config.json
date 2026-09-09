@@ -1,0 +1,8 @@
+{
+  "appId": "com.campus.leave",
+  "appName": "校园请假",
+  "webDir": "web",
+  "server": {
+    "cleartext": true
+  }
+}
